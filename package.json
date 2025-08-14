@@ -21,7 +21,7 @@
     "expo-font": "~12.0.10",
     "expo-haptics": "~12.4.0",
     "expo-linear-gradient": "~12.3.0",
-    "expo-linking": "^5.0.1",
+    "expo-linking": "^7.0.5",
     "expo-router": "^4.0.17",
     "expo-splash-screen": "^0.20.5",
     "expo-status-bar": "~1.6.0",
